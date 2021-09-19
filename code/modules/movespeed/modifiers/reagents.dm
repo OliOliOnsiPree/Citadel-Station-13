@@ -1,5 +1,5 @@
 /datum/movespeed_modifier/reagent
-	blacklisted_movetypes = (FLYING|FLOATING)
+	blacklisted_movetypes = (FLYING|FLOATING|CRAWLING)
 
 /datum/movespeed_modifier/reagent/stimulants
 	multiplicative_slowdown = -0.55
